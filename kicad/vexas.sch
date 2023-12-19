@@ -1,0 +1,990 @@
+EESchema Schematic File Version 4
+LIBS:vexas-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L vexas-rescue:KEYSW K2
+U 1 1 5E0D7098
+P 3350 1900
+F 0 "K2" H 3300 1900 60  0000 C CNN
+F 1 "KEYSW" H 3350 1800 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 3350 1900 60  0001 C CNN
+F 3 "" H 3350 1900 60  0000 C CNN
+	1    3350 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K1
+U 1 1 5E0D72AE
+P 3050 1900
+F 0 "K1" H 3000 1900 60  0000 C CNN
+F 1 "KEYSW" H 3050 1800 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 3050 1900 60  0001 C CNN
+F 3 "" H 3050 1900 60  0000 C CNN
+	1    3050 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K4
+U 1 1 5E0D72F8
+P 3950 1900
+F 0 "K4" H 3900 1900 60  0000 C CNN
+F 1 "KEYSW" H 3950 1800 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 3950 1900 60  0001 C CNN
+F 3 "" H 3950 1900 60  0000 C CNN
+	1    3950 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K3
+U 1 1 5E0D72FE
+P 3650 1900
+F 0 "K3" H 3600 1900 60  0000 C CNN
+F 1 "KEYSW" H 3650 1800 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 3650 1900 60  0001 C CNN
+F 3 "" H 3650 1900 60  0000 C CNN
+	1    3650 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K5
+U 1 1 5E0D7332
+P 4250 1900
+F 0 "K5" H 4200 1900 60  0000 C CNN
+F 1 "KEYSW" H 4250 1800 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 4250 1900 60  0001 C CNN
+F 3 "" H 4250 1900 60  0000 C CNN
+	1    4250 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K7
+U 1 1 5E0D7496
+P 4850 1900
+F 0 "K7" H 4800 1900 60  0000 C CNN
+F 1 "KEYSW" H 4850 1800 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 4850 1900 60  0001 C CNN
+F 3 "" H 4850 1900 60  0000 C CNN
+	1    4850 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K6
+U 1 1 5E0D749C
+P 4550 1900
+F 0 "K6" H 4500 1900 60  0000 C CNN
+F 1 "KEYSW" H 4550 1800 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 4550 1900 60  0001 C CNN
+F 3 "" H 4550 1900 60  0000 C CNN
+	1    4550 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K9
+U 1 1 5E0D74A2
+P 5450 1900
+F 0 "K9" H 5400 1900 60  0000 C CNN
+F 1 "KEYSW" H 5450 1800 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 5450 1900 60  0001 C CNN
+F 3 "" H 5450 1900 60  0000 C CNN
+	1    5450 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K8
+U 1 1 5E0D74A8
+P 5150 1900
+F 0 "K8" H 5100 1900 60  0000 C CNN
+F 1 "KEYSW" H 5150 1800 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 5150 1900 60  0001 C CNN
+F 3 "" H 5150 1900 60  0000 C CNN
+	1    5150 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K10
+U 1 1 5E0D74AE
+P 5750 1900
+F 0 "K10" H 5700 1900 60  0000 C CNN
+F 1 "KEYSW" H 5750 1800 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 5750 1900 60  0001 C CNN
+F 3 "" H 5750 1900 60  0000 C CNN
+	1    5750 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K12
+U 1 1 5E0D77AC
+P 3350 2800
+F 0 "K12" H 3300 2800 60  0000 C CNN
+F 1 "KEYSW" H 3350 2700 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 3350 2800 60  0001 C CNN
+F 3 "" H 3350 2800 60  0000 C CNN
+	1    3350 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K11
+U 1 1 5E0D77B2
+P 3050 2800
+F 0 "K11" H 3000 2800 60  0000 C CNN
+F 1 "KEYSW" H 3050 2700 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 3050 2800 60  0001 C CNN
+F 3 "" H 3050 2800 60  0000 C CNN
+	1    3050 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K14
+U 1 1 5E0D77B8
+P 3950 2800
+F 0 "K14" H 3900 2800 60  0000 C CNN
+F 1 "KEYSW" H 3950 2700 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 3950 2800 60  0001 C CNN
+F 3 "" H 3950 2800 60  0000 C CNN
+	1    3950 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K13
+U 1 1 5E0D77BE
+P 3650 2800
+F 0 "K13" H 3600 2800 60  0000 C CNN
+F 1 "KEYSW" H 3650 2700 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 3650 2800 60  0001 C CNN
+F 3 "" H 3650 2800 60  0000 C CNN
+	1    3650 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K15
+U 1 1 5E0D77C4
+P 4250 2800
+F 0 "K15" H 4200 2800 60  0000 C CNN
+F 1 "KEYSW" H 4250 2700 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 4250 2800 60  0001 C CNN
+F 3 "" H 4250 2800 60  0000 C CNN
+	1    4250 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K17
+U 1 1 5E0D77CA
+P 4850 2800
+F 0 "K17" H 4800 2800 60  0000 C CNN
+F 1 "KEYSW" H 4850 2700 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 4850 2800 60  0001 C CNN
+F 3 "" H 4850 2800 60  0000 C CNN
+	1    4850 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K16
+U 1 1 5E0D77D0
+P 4550 2800
+F 0 "K16" H 4500 2800 60  0000 C CNN
+F 1 "KEYSW" H 4550 2700 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 4550 2800 60  0001 C CNN
+F 3 "" H 4550 2800 60  0000 C CNN
+	1    4550 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K19
+U 1 1 5E0D77D6
+P 5450 2800
+F 0 "K19" H 5400 2800 60  0000 C CNN
+F 1 "KEYSW" H 5450 2700 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 5450 2800 60  0001 C CNN
+F 3 "" H 5450 2800 60  0000 C CNN
+	1    5450 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K18
+U 1 1 5E0D77DC
+P 5150 2800
+F 0 "K18" H 5100 2800 60  0000 C CNN
+F 1 "KEYSW" H 5150 2700 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 5150 2800 60  0001 C CNN
+F 3 "" H 5150 2800 60  0000 C CNN
+	1    5150 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K20
+U 1 1 5E0D77E2
+P 5750 2800
+F 0 "K20" H 5700 2800 60  0000 C CNN
+F 1 "KEYSW" H 5750 2700 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 5750 2800 60  0001 C CNN
+F 3 "" H 5750 2800 60  0000 C CNN
+	1    5750 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K22
+U 1 1 5E0D7EA0
+P 3350 3700
+F 0 "K22" H 3300 3700 60  0000 C CNN
+F 1 "KEYSW" H 3350 3600 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 3350 3700 60  0001 C CNN
+F 3 "" H 3350 3700 60  0000 C CNN
+	1    3350 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K21
+U 1 1 5E0D7EA6
+P 3050 3700
+F 0 "K21" H 3000 3700 60  0000 C CNN
+F 1 "KEYSW" H 3050 3600 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 3050 3700 60  0001 C CNN
+F 3 "" H 3050 3700 60  0000 C CNN
+	1    3050 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K24
+U 1 1 5E0D7EAC
+P 3950 3700
+F 0 "K24" H 3900 3700 60  0000 C CNN
+F 1 "KEYSW" H 3950 3600 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 3950 3700 60  0001 C CNN
+F 3 "" H 3950 3700 60  0000 C CNN
+	1    3950 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K23
+U 1 1 5E0D7EB2
+P 3650 3700
+F 0 "K23" H 3600 3700 60  0000 C CNN
+F 1 "KEYSW" H 3650 3600 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 3650 3700 60  0001 C CNN
+F 3 "" H 3650 3700 60  0000 C CNN
+	1    3650 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K25
+U 1 1 5E0D7EB8
+P 4250 3700
+F 0 "K25" H 4200 3700 60  0000 C CNN
+F 1 "KEYSW" H 4250 3600 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 4250 3700 60  0001 C CNN
+F 3 "" H 4250 3700 60  0000 C CNN
+	1    4250 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K27
+U 1 1 5E0D7EBE
+P 4850 3700
+F 0 "K27" H 4800 3700 60  0000 C CNN
+F 1 "KEYSW" H 4850 3600 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 4850 3700 60  0001 C CNN
+F 3 "" H 4850 3700 60  0000 C CNN
+	1    4850 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K26
+U 1 1 5E0D7EC4
+P 4550 3700
+F 0 "K26" H 4500 3700 60  0000 C CNN
+F 1 "KEYSW" H 4550 3600 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 4550 3700 60  0001 C CNN
+F 3 "" H 4550 3700 60  0000 C CNN
+	1    4550 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K29
+U 1 1 5E0D7ECA
+P 5450 3700
+F 0 "K29" H 5400 3700 60  0000 C CNN
+F 1 "KEYSW" H 5450 3600 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 5450 3700 60  0001 C CNN
+F 3 "" H 5450 3700 60  0000 C CNN
+	1    5450 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K28
+U 1 1 5E0D7ED0
+P 5150 3700
+F 0 "K28" H 5100 3700 60  0000 C CNN
+F 1 "KEYSW" H 5150 3600 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 5150 3700 60  0001 C CNN
+F 3 "" H 5150 3700 60  0000 C CNN
+	1    5150 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K30
+U 1 1 5E0D7ED6
+P 5750 3700
+F 0 "K30" H 5700 3700 60  0000 C CNN
+F 1 "KEYSW" H 5750 3600 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 5750 3700 60  0001 C CNN
+F 3 "" H 5750 3700 60  0000 C CNN
+	1    5750 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K32
+U 1 1 5E0D7EDC
+P 3350 4600
+F 0 "K32" H 3300 4600 60  0000 C CNN
+F 1 "KEYSW" H 3350 4500 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 3350 4600 60  0001 C CNN
+F 3 "" H 3350 4600 60  0000 C CNN
+	1    3350 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K31
+U 1 1 5E0D7EE2
+P 3050 4600
+F 0 "K31" H 3000 4600 60  0000 C CNN
+F 1 "KEYSW" H 3050 4500 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 3050 4600 60  0001 C CNN
+F 3 "" H 3050 4600 60  0000 C CNN
+	1    3050 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K34
+U 1 1 5E0D7EE8
+P 3950 4600
+F 0 "K34" H 3900 4600 60  0000 C CNN
+F 1 "KEYSW" H 3950 4500 60  0001 C CNN
+F 2 "keebs:90deg6mm_mo_push_THT" H 3950 4600 60  0001 C CNN
+F 3 "" H 3950 4600 60  0000 C CNN
+	1    3950 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K33
+U 1 1 5E0D7EEE
+P 3650 4600
+F 0 "K33" H 3600 4600 60  0000 C CNN
+F 1 "KEYSW" H 3650 4500 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 3650 4600 60  0001 C CNN
+F 3 "" H 3650 4600 60  0000 C CNN
+	1    3650 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K35
+U 1 1 5E0D7EF4
+P 4250 4600
+F 0 "K35" H 4200 4600 60  0000 C CNN
+F 1 "KEYSW" H 4250 4500 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 4250 4600 60  0001 C CNN
+F 3 "" H 4250 4600 60  0000 C CNN
+	1    4250 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K37
+U 1 1 5E0D7EFA
+P 4850 4600
+F 0 "K37" H 4800 4600 60  0000 C CNN
+F 1 "KEYSW" H 4850 4500 60  0001 C CNN
+F 2 "keebs:90deg6mm_mo_push_THT" H 4850 4600 60  0001 C CNN
+F 3 "" H 4850 4600 60  0000 C CNN
+	1    4850 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K36
+U 1 1 5E0D7F00
+P 4550 4600
+F 0 "K36" H 4500 4600 60  0000 C CNN
+F 1 "KEYSW" H 4550 4500 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 4550 4600 60  0001 C CNN
+F 3 "" H 4550 4600 60  0000 C CNN
+	1    4550 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K39
+U 1 1 5E0D7F06
+P 5450 4600
+F 0 "K39" H 5400 4600 60  0000 C CNN
+F 1 "KEYSW" H 5450 4500 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 5450 4600 60  0001 C CNN
+F 3 "" H 5450 4600 60  0000 C CNN
+	1    5450 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K38
+U 1 1 5E0D7F0C
+P 5150 4600
+F 0 "K38" H 5100 4600 60  0000 C CNN
+F 1 "KEYSW" H 5150 4500 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 5150 4600 60  0001 C CNN
+F 3 "" H 5150 4600 60  0000 C CNN
+	1    5150 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:KEYSW K40
+U 1 1 5E0D7F12
+P 5750 4600
+F 0 "K40" H 5700 4600 60  0000 C CNN
+F 1 "KEYSW" H 5750 4500 60  0001 C CNN
+F 2 "keebs:6mm_mo_push_THT" H 5750 4600 60  0001 C CNN
+F 3 "" H 5750 4600 60  0000 C CNN
+	1    5750 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:HeltecESP32v2 U1
+U 1 1 5E0D823A
+P 8000 2950
+F 0 "U1" H 8000 2950 60  0000 C CNN
+F 1 "HeltecESP32v2" V 8000 2950 60  0000 C CNN
+F 2 "keebs:HeltecESP32WifiLORAv2" H 8000 2950 60  0001 C CNN
+F 3 "" H 8000 2950 60  0001 C CNN
+	1    8000 2950
+	1    0    0    -1  
+$EndComp
+Text Label 5750 1600 0    60   ~ 0
+row0
+Text Label 5750 2500 0    60   ~ 0
+row1
+Text Label 5750 3400 0    60   ~ 0
+row2
+Text Label 5750 4300 0    60   ~ 0
+row3
+Text Label 2900 4900 3    60   ~ 0
+col0
+Text Label 3200 4900 3    60   ~ 0
+col1
+Text Label 3500 4900 3    60   ~ 0
+col2
+Text Label 3800 4900 3    60   ~ 0
+col3
+Text Label 4100 4900 3    60   ~ 0
+col4
+Text Label 4400 4900 3    60   ~ 0
+col5
+Text Label 4700 4900 3    60   ~ 0
+col6
+Text Label 5000 4900 3    60   ~ 0
+col7
+Text Label 5300 4900 3    60   ~ 0
+col8
+Text Label 5600 4900 3    60   ~ 0
+col9
+Text Label 7500 2850 2    60   ~ 0
+row0
+Text Label 8500 3750 0    60   ~ 0
+row1
+Text Label 7500 3150 2    60   ~ 0
+row2
+Text Label 7500 3050 2    60   ~ 0
+row3
+Text Label 7500 3650 2    60   ~ 0
+col0
+Text Label 7500 3450 2    60   ~ 0
+col1
+Text Label 7500 3250 2    60   ~ 0
+col2
+Text Label 9250 2450 0    60   ~ 0
+col3
+Text Label 9250 2550 0    60   ~ 0
+col4
+Text Label 8500 3350 0    60   ~ 0
+col5
+Text Label 8500 3450 0    60   ~ 0
+col6
+Text Label 8500 3550 0    60   ~ 0
+col7
+Text Label 8500 3650 0    60   ~ 0
+col8
+Text Label 9250 2350 0    60   ~ 0
+col9
+$Comp
+L Device:Buzzer BZ1
+U 1 1 5EC60CDD
+P 9200 3350
+F 0 "BZ1" H 9350 3400 50  0000 L CNN
+F 1 "Buzzer" H 9350 3300 50  0000 L CNN
+F 2 "Buzzers_Beepers:BUZZER" V 9175 3450 50  0001 C CNN
+F 3 "" V 9175 3450 50  0000 C CNN
+	1    9200 3350
+	1    0    0    -1  
+$EndComp
+Text Label 7500 2250 2    60   ~ 0
+3.3v
+Text Label 8550 1700 2    60   ~ 0
+GND
+Text Label 9100 3450 2    60   ~ 0
+GND
+$Comp
+L Device:R R36
+U 1 1 5EC635C6
+P 8700 2050
+F 0 "R36" V 8780 2050 50  0000 C CNN
+F 1 "R10K" V 8700 2050 50  0000 C CNN
+F 2 "keebs:Resistor_SMD_THTuniversal_v1.0" V 8630 2050 50  0001 C CNN
+F 3 "" H 8700 2050 50  0000 C CNN
+	1    8700 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R37
+U 1 1 5EC637C8
+P 8900 2050
+F 0 "R37" V 8980 2050 50  0000 C CNN
+F 1 "R10K" V 8900 2050 50  0000 C CNN
+F 2 "keebs:Resistor_SMD_THTuniversal_v1.0" V 8830 2050 50  0001 C CNN
+F 3 "" H 8900 2050 50  0000 C CNN
+	1    8900 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R38
+U 1 1 5EC6397C
+P 9100 2050
+F 0 "R38" V 9180 2050 50  0000 C CNN
+F 1 "R10K" V 9100 2050 50  0000 C CNN
+F 2 "keebs:Resistor_SMD_THTuniversal_v1.0" V 9030 2050 50  0001 C CNN
+F 3 "" H 9100 2050 50  0000 C CNN
+	1    9100 2050
+	1    0    0    -1  
+$EndComp
+Text Label 7500 3350 2    60   ~ 0
+SCL
+Text Label 7500 3550 2    60   ~ 0
+SDA
+Text Label 7200 2450 0    60   ~ 0
+RX
+Text Label 6950 2550 2    60   ~ 0
+TX
+$Comp
+L vexas-rescue:CONN_01X02 P1
+U 1 1 5EC66CFA
+P 7000 2250
+F 0 "P1" H 7000 2400 50  0000 C CNN
+F 1 "CONN_01X02" V 7100 2250 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x02" H 7000 2250 50  0001 C CNN
+F 3 "" H 7000 2250 50  0000 C CNN
+	1    7000 2250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L vexas-rescue:CONN_01X04 P2
+U 1 1 5EC66E2B
+P 6350 3500
+F 0 "P2" H 6350 3750 50  0000 C CNN
+F 1 "CONN_01X04" V 6450 3500 50  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x04" H 6350 3500 50  0001 C CNN
+F 3 "" H 6350 3500 50  0000 C CNN
+	1    6350 3500
+	-1   0    0    1   
+$EndComp
+Text Label 6600 3650 0    60   ~ 0
+3.3v
+Text Label 6550 3550 0    60   ~ 0
+GND
+Text Label 9100 1900 0    60   ~ 0
+3.3v
+$Comp
+L Device:R R1
+U 1 1 5EC68B24
+P 6700 3200
+F 0 "R1" V 6780 3200 50  0000 C CNN
+F 1 "Ri2c" V 6700 3200 50  0000 C CNN
+F 2 "Resistors_SMD:R_2010_HandSoldering" V 6630 3200 50  0001 C CNN
+F 3 "" H 6700 3200 50  0000 C CNN
+	1    6700 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5EC693A0
+P 6900 3300
+F 0 "R2" V 6980 3300 50  0000 C CNN
+F 1 "Ri2c" V 6900 3300 50  0000 C CNN
+F 2 "Resistors_SMD:R_2010_HandSoldering" V 6830 3300 50  0001 C CNN
+F 3 "" H 6900 3300 50  0000 C CNN
+	1    6900 3300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3050 1600 3350 1600
+Connection ~ 3350 1600
+Connection ~ 3650 1600
+Connection ~ 3950 1600
+Connection ~ 4250 1600
+Connection ~ 4550 1600
+Connection ~ 4850 1600
+Connection ~ 5450 1600
+Connection ~ 5150 1600
+Connection ~ 3350 2500
+Connection ~ 3650 2500
+Connection ~ 3950 2500
+Connection ~ 4250 2500
+Connection ~ 4550 2500
+Connection ~ 4850 2500
+Connection ~ 5450 2500
+Wire Wire Line
+	3050 2500 3350 2500
+Connection ~ 3350 3400
+Connection ~ 3650 3400
+Connection ~ 3950 3400
+Connection ~ 4250 3400
+Connection ~ 4550 3400
+Connection ~ 4850 3400
+Connection ~ 5450 3400
+Wire Wire Line
+	3050 3400 3350 3400
+Connection ~ 3350 4300
+Connection ~ 3650 4300
+Connection ~ 3950 4300
+Connection ~ 4250 4300
+Connection ~ 4550 4300
+Connection ~ 4850 4300
+Connection ~ 5450 4300
+Wire Wire Line
+	3050 4300 3350 4300
+Wire Wire Line
+	5450 2200 5300 2200
+Wire Wire Line
+	5300 2200 5300 3100
+Wire Wire Line
+	5300 3100 5450 3100
+Wire Wire Line
+	5300 4900 5450 4900
+Connection ~ 5300 3100
+Wire Wire Line
+	5450 4000 5300 4000
+Connection ~ 5300 4000
+Wire Wire Line
+	5750 2200 5600 2200
+Wire Wire Line
+	5600 2200 5600 3100
+Wire Wire Line
+	5600 3100 5750 3100
+Wire Wire Line
+	5600 4900 5750 4900
+Connection ~ 5600 3100
+Wire Wire Line
+	5750 4000 5600 4000
+Connection ~ 5600 4000
+Wire Wire Line
+	5150 2200 5000 2200
+Wire Wire Line
+	5000 2200 5000 3100
+Wire Wire Line
+	5000 3100 5150 3100
+Wire Wire Line
+	5000 4900 5150 4900
+Connection ~ 5000 3100
+Wire Wire Line
+	5150 4000 5000 4000
+Connection ~ 5000 4000
+Wire Wire Line
+	4850 2200 4700 2200
+Wire Wire Line
+	4700 2200 4700 3100
+Wire Wire Line
+	4700 3100 4850 3100
+Wire Wire Line
+	4700 4900 4850 4900
+Connection ~ 4700 3100
+Wire Wire Line
+	4850 4000 4700 4000
+Connection ~ 4700 4000
+Wire Wire Line
+	4550 2200 4400 2200
+Wire Wire Line
+	4400 2200 4400 3100
+Wire Wire Line
+	4400 3100 4550 3100
+Wire Wire Line
+	4400 4900 4550 4900
+Connection ~ 4400 3100
+Wire Wire Line
+	4550 4000 4400 4000
+Connection ~ 4400 4000
+Wire Wire Line
+	4250 2200 4100 2200
+Wire Wire Line
+	4100 2200 4100 3100
+Wire Wire Line
+	4100 3100 4250 3100
+Wire Wire Line
+	4100 4900 4250 4900
+Connection ~ 4100 3100
+Wire Wire Line
+	4250 4000 4100 4000
+Connection ~ 4100 4000
+Wire Wire Line
+	3950 2200 3800 2200
+Wire Wire Line
+	3800 2200 3800 3100
+Wire Wire Line
+	3800 3100 3950 3100
+Wire Wire Line
+	3800 4900 3950 4900
+Connection ~ 3800 3100
+Wire Wire Line
+	3950 4000 3800 4000
+Connection ~ 3800 4000
+Wire Wire Line
+	3650 2200 3500 2200
+Wire Wire Line
+	3500 2200 3500 3100
+Wire Wire Line
+	3500 3100 3650 3100
+Wire Wire Line
+	3500 4900 3650 4900
+Connection ~ 3500 3100
+Wire Wire Line
+	3650 4000 3500 4000
+Connection ~ 3500 4000
+Wire Wire Line
+	3350 2200 3200 2200
+Wire Wire Line
+	3200 2200 3200 3100
+Wire Wire Line
+	3200 3100 3350 3100
+Wire Wire Line
+	3200 4900 3350 4900
+Connection ~ 3200 3100
+Wire Wire Line
+	3350 4000 3200 4000
+Connection ~ 3200 4000
+Wire Wire Line
+	3050 2200 2900 2200
+Wire Wire Line
+	2900 2200 2900 3100
+Wire Wire Line
+	2900 3100 3050 3100
+Wire Wire Line
+	2900 4900 3050 4900
+Connection ~ 2900 3100
+Wire Wire Line
+	3050 4000 2900 4000
+Connection ~ 2900 4000
+Connection ~ 5150 3400
+Connection ~ 5150 4300
+Connection ~ 5150 2500
+Wire Wire Line
+	8500 3250 9100 3250
+Wire Wire Line
+	8600 1900 8700 1900
+Connection ~ 8900 1900
+Wire Wire Line
+	8500 2250 8600 2250
+Wire Wire Line
+	8600 2250 8600 1900
+Connection ~ 8700 1900
+Wire Wire Line
+	8500 2350 8700 2350
+Wire Wire Line
+	8500 2450 8900 2450
+Wire Wire Line
+	8500 2550 9100 2550
+Wire Wire Line
+	8700 2200 8700 2350
+Connection ~ 8700 2350
+Wire Wire Line
+	8900 2450 8900 2200
+Connection ~ 8900 2450
+Wire Wire Line
+	9100 2200 9100 2550
+Connection ~ 9100 2550
+Wire Wire Line
+	8550 2050 8500 2050
+Wire Wire Line
+	8550 1350 8550 2050
+Wire Wire Line
+	7500 2050 7350 2050
+Wire Wire Line
+	7350 2050 7350 1350
+Wire Wire Line
+	7350 1350 8550 1350
+Wire Wire Line
+	7500 2450 7050 2450
+Wire Wire Line
+	7500 2550 6950 2550
+Wire Wire Line
+	6950 2550 6950 2450
+Wire Wire Line
+	6600 3050 6600 3650
+Wire Wire Line
+	6600 3050 6700 3050
+Wire Wire Line
+	6900 3050 6900 3150
+Connection ~ 6700 3050
+Wire Wire Line
+	6550 3350 6700 3350
+Connection ~ 6700 3350
+Wire Wire Line
+	6550 3450 6900 3450
+Wire Wire Line
+	7250 3450 7250 3550
+Wire Wire Line
+	7250 3550 7500 3550
+Connection ~ 6900 3450
+Wire Wire Line
+	6600 3650 6550 3650
+Wire Wire Line
+	3350 1600 3650 1600
+Wire Wire Line
+	3650 1600 3950 1600
+Wire Wire Line
+	3950 1600 4250 1600
+Wire Wire Line
+	4250 1600 4550 1600
+Wire Wire Line
+	4550 1600 4850 1600
+Wire Wire Line
+	4850 1600 5150 1600
+Wire Wire Line
+	5450 1600 5750 1600
+Wire Wire Line
+	5150 1600 5450 1600
+Wire Wire Line
+	3350 2500 3650 2500
+Wire Wire Line
+	3650 2500 3950 2500
+Wire Wire Line
+	3950 2500 4250 2500
+Wire Wire Line
+	4250 2500 4550 2500
+Wire Wire Line
+	4550 2500 4850 2500
+Wire Wire Line
+	4850 2500 5150 2500
+Wire Wire Line
+	5450 2500 5750 2500
+Wire Wire Line
+	3350 3400 3650 3400
+Wire Wire Line
+	3650 3400 3950 3400
+Wire Wire Line
+	3950 3400 4250 3400
+Wire Wire Line
+	4250 3400 4550 3400
+Wire Wire Line
+	4550 3400 4850 3400
+Wire Wire Line
+	4850 3400 5150 3400
+Wire Wire Line
+	5450 3400 5750 3400
+Wire Wire Line
+	3350 4300 3650 4300
+Wire Wire Line
+	3650 4300 3950 4300
+Wire Wire Line
+	3950 4300 4250 4300
+Wire Wire Line
+	4250 4300 4550 4300
+Wire Wire Line
+	4550 4300 4850 4300
+Wire Wire Line
+	4850 4300 5150 4300
+Wire Wire Line
+	5450 4300 5750 4300
+Wire Wire Line
+	5300 3100 5300 4000
+Wire Wire Line
+	5300 4000 5300 4900
+Wire Wire Line
+	5600 3100 5600 4000
+Wire Wire Line
+	5600 4000 5600 4900
+Wire Wire Line
+	5000 3100 5000 4000
+Wire Wire Line
+	5000 4000 5000 4900
+Wire Wire Line
+	4700 3100 4700 4000
+Wire Wire Line
+	4700 4000 4700 4900
+Wire Wire Line
+	4400 3100 4400 4000
+Wire Wire Line
+	4400 4000 4400 4900
+Wire Wire Line
+	4100 3100 4100 4000
+Wire Wire Line
+	4100 4000 4100 4900
+Wire Wire Line
+	3800 3100 3800 4000
+Wire Wire Line
+	3800 4000 3800 4900
+Wire Wire Line
+	3500 3100 3500 4000
+Wire Wire Line
+	3500 4000 3500 4900
+Wire Wire Line
+	3200 3100 3200 4000
+Wire Wire Line
+	3200 4000 3200 4900
+Wire Wire Line
+	2900 3100 2900 4000
+Wire Wire Line
+	2900 4000 2900 4900
+Wire Wire Line
+	8900 1900 9100 1900
+Wire Wire Line
+	8700 1900 8900 1900
+Wire Wire Line
+	8700 2350 9250 2350
+Wire Wire Line
+	8900 2450 9250 2450
+Wire Wire Line
+	9100 2550 9250 2550
+Wire Wire Line
+	6700 3050 6900 3050
+Wire Wire Line
+	6700 3350 7500 3350
+Wire Wire Line
+	6900 3450 7250 3450
+Wire Wire Line
+	5150 2500 5450 2500
+Wire Wire Line
+	5150 3400 5450 3400
+Wire Wire Line
+	5150 4300 5450 4300
+$Comp
+L Device:Buzzer BZ2
+U 1 1 5FFD2CC3
+P 9800 3150
+F 0 "BZ2" H 9950 3200 50  0000 L CNN
+F 1 "Buzzer" H 9950 3100 50  0000 L CNN
+F 2 "Buzzers_Beepers:BUZZER" V 9775 3250 50  0001 C CNN
+F 3 "" V 9775 3250 50  0000 C CNN
+	1    9800 3150
+	1    0    0    -1  
+$EndComp
+Text Label 9700 3250 2    60   ~ 0
+GND
+Wire Wire Line
+	9100 3050 9700 3050
+Wire Wire Line
+	9100 3050 9100 3250
+Connection ~ 9100 3250
+$EndSCHEMATC

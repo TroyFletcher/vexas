@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name vexas-rescue)(type Legacy)(uri ${KIPRJMOD}/vexas-rescue.lib)(options "")(descr ""))
+)
